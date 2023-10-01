@@ -1,3 +1,8 @@
+<div align="left">
+  <img src="../pml_logo.png" height="150"/>
+</div>
+
+
 <div align="center">
-  <a href="https://raw.githubusercontent.com/PMLBook/.github/main/pml_logo.png" height="450"/></a>
+  <img src="../book_cover_3d.png" height="550"/>
 </div>
