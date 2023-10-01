@@ -4,5 +4,5 @@
 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/PMLBook/.github/main/book_cover_3d.png" height="550"/>
+  <a href="https://PMLBook.github.io"><img src="https://raw.githubusercontent.com/PMLBook/.github/main/book_cover_3d.png" height="550"/></a>
 </div>
